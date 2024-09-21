@@ -1,1 +1,1 @@
-Calculadora de média ponderada
+Calculadora de média ponderada em c++
